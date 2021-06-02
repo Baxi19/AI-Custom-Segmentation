@@ -1,6 +1,4 @@
-# Custom Segmentation :alien:
-
-:fire: Segmentation model with your images :camera:
+# Instance Custom Segmentation :alien:
 
 <div class="row" align="center">
   <h3 >Video used to test</h3>
