@@ -6,6 +6,6 @@
 </div>
 
 <div class="row" align="center">
-  <h3 >Results</h3>
+  <h3 >Segmentation result</h3>
   <img src="./docs/video-predict-converted.gif" width="400" height="200" />
 </div>
